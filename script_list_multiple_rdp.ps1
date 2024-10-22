@@ -1,3 +1,5 @@
+# PowerShell
+
 # Script to collect RDP users
 # Define the list of machines
 $computers = @("MACHINE1", "MACHINE2", "MACHINE3", "MACHINE4", "MACHINE5", "MACHINE6")
